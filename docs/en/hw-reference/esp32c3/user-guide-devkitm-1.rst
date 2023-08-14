@@ -11,9 +11,11 @@ As a base Module, later implement in , to internet of ... This document also pro
 
 ESP32-C3-Connect&Control-BasisModule is a self-made PCB circuit board based on ESP32-C3-MINI-1, a module named for its small size. This board integrates complete Wi-Fi and Bluetooth LE functions.
 
+# General function description
 
+* software 
+* hardware
 
-this is changed from benni
 
 
 
@@ -237,3 +239,7 @@ For further design documentation for the board, please contact us at `sales@espr
 .. _ESP32-C3-DevKitM-1 PCB Layout: https://dl.espressif.com/dl/schematics/PCB_ESP32-C3-DEVKITM-1_V1_20200915AA.pdf
 .. _ESP32-C3-DevKitM-1 Dimensions: https://dl.espressif.com/dl/schematics/DIMENSION_ESP32-C3-DEVKITM-1_V1_20200915AA.pdf
 .. _ESP32-C3-DevKitM-1 Dimensions source file: https://dl.espressif.com/dl/schematics/DIMENSION_ESP32-C3-DEVKITM-1_V1_20200915AA.dxf
+
+
+
+# AI application
