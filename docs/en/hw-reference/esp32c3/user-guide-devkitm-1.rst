@@ -26,7 +26,7 @@ ESP32-C3-Connect&Control-BasisModule is a self-made PCB circuit board based on E
 
 Most of the I/O pins on the ESP32-C3-MINI-1 module are broken out to the pin headers on both sides of this board for easy interfacing. Developers can either connect peripherals with jumper wires or mount ESP32-C3-DevKitM-1 on a breadboard.
 
-.. figure:: ../../../_static/esp32-c3-devkitm-1-v1-isometric.png
+.. figure:: ../../../_static/Bypass_example.PNG
     :align: center
     :alt: ESP32-C3-DevKitM-1
     :figclass: align-center
