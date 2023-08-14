@@ -1,5 +1,5 @@
 /* ESPNOW Example
-
+   
    This example code is in the Public Domain (or CC0 licensed, at your option.)
 
    Unless required by applicable law or agreed to in writing, this
@@ -12,6 +12,8 @@
    Prepare two device, one for sending ESPNOW data and another for receiving
    ESPNOW data.
 */
+
+/* this is sort of kinda my work*/
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
