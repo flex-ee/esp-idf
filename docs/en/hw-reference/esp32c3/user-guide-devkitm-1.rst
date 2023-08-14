@@ -1,12 +1,28 @@
 ==================
-ESP32-C3-DevKitM-1
+
+ESP32-C3-Connect&Control-BasisModule
 ==================
 
-:link_to_translation:`zh_CN:[中文]`
 
-This user guide will help you get started with ESP32-C3-DevKitM-1 and will also provide more in-depth information.
+This documentation is a description of PCB Module named "ESP32-C3-Connect&Control-BasisModule".
+The purpose of this module is to connect two power tools for them to work in coordination and synchronization. 
+As a base Module, later implement in , to internet of ... This document also provide in-depth information for further development of "Internet of power tools".
 
-ESP32-C3-DevKitM-1 is an entry-level development board based on `ESP32-C3-MINI-1 <https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf>`_, a module named for its small size. This board integrates complete Wi-Fi and Bluetooth LE functions.
+
+ESP32-C3-Connect&Control-BasisModule is a self-made PCB circuit board based on ESP32-C3-MINI-1, a module named for its small size. This board integrates complete Wi-Fi and Bluetooth LE functions.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Most of the I/O pins on the ESP32-C3-MINI-1 module are broken out to the pin headers on both sides of this board for easy interfacing. Developers can either connect peripherals with jumper wires or mount ESP32-C3-DevKitM-1 on a breadboard.
 
