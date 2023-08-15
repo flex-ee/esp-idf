@@ -37,7 +37,7 @@ MosFet
 
 
 
-.. figure:: ../../../_static/Flex_THTMosPlatine.PNG
+.. figure:: ../../../_static/Flex_THTMosPlatine.png
     :align: center
     :alt: ESP32-C3-DevKitM-1
     :figclass: align-center
